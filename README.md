@@ -1,9 +1,11 @@
-== BESCHREIBUNG ==
+BESCHREIBUNG
+============
 Mit der PIX-Technologie oder kurz PIXTEC kannst du Ausschnitte von Bildern im Internet markieren und sie mit Kommentaren, Videos, Bildern, Produkten und anderen Inhalten verlinken. Die Markierung erscheint als grüner Punkt – dem PIX – der bei Mouseover sichtbar wird.
 Die PIXTEC kanst du als JavaScript Code in deine Webseite integrieren. Für Joomla Webseiten haben wir ein eigenes Plugin, das die Integration nochmals vereinfacht. Mit der PIXTEC kannst du die Rechte für das PIXSETTING auf deiner Webseite festlegen. Du kannst selber PIX setzen. Und du kannst die PIX von Freunden oder interessierten Lesern annehmen oder ablehnen.
 
 
-== INSTALLATION ==
+INSTALLATION
+============
 Gehe in dein Joomla!-Backend und installiere das Plugin "plg_redpeppix" unter dem Punkt "Erweiterungen:Installieren". Danach musst du nur das redpeppix-Plugin unter "Erweiterungen:Plugins" aktivieren. Optional kannst du noch einige Einstellungen vornehmen, in dem du dort das redpeppix-Plugin auswählst.
 
 Basisoptionen:
