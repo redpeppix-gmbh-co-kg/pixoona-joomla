@@ -6,6 +6,8 @@ Die PIXTEC kanst du als JavaScript Code in deine Webseite integrieren. Für Joom
 CHANGELOG
 =========
 
+- Version 1.0.2 (2012-01-16) : Kein explizites Inkludieren von Faye. Das Script wird autom. durch das redpeppix.-Script geladen.
+
 - Version 1.0.1 (2011-12-13) : Die URL für Faye wurde angepasst
 
 INSTALLATION
