@@ -24,7 +24,7 @@ Technology active? If you don‘t want PIX-technology to be active on your page,
 redpeppix. allows various ways of commenting. At the moment comments can be published via redpeppix. or Facebook with commenting via redpeppix. being standard. Facebook can be chosen as a provider alternatively. The PIX comments are then published using the Facebook comment-function. This way every Facebook user can comment. IMPORTANT: At the moment, only the publsiher „redpeppix“ is functional.
 
 
-
+*****
 
 
 BESCHREIBUNG
