@@ -1,3 +1,34 @@
+DESCRIPTION
+===========
+PIX-technology enables you to link up comments, videos, pictures, products and much more to any image on the internet. This content becomes visible at mouseover: you see a small green dot - the PIX. Every new PIX opens up an interactive world of its own which the user can discover, explore and expand.
+PIX-technology can be integrated into your website with a JavaScript, or with a special Joomla plugin that makes integration extremely easy. You can adjust the PIX-technology according to your wishes and tweak PIX settings to meet your individual needs. Set PIX yourself and manage PIX set by your friends or other interested readers.
+
+
+CHANGELOG
+=========
+
+- Version 1.0.2 (2012-01-16) : No explicit include of Faye. The script will be automatically loaded with the redpeppix.-Script.
+
+- Version 1.0.1 (2011-12-13) : The url for Faye was adapted.
+
+
+INSTALLATION
+============
+Step 1: Download the Joomla module („plg_redpeppix.zip“) above.
+Step 2: Go to „Extensions“, „Extensions Manager“ in the Joomla backend, choose „Install“ and install the module „plg_redpeppix.zip“.
+Step 3: Go to „Extensions“ and choose „Plugin Manager“. Then activate the redpeppix. plugin.
+
+Various settings can be made by clicking on the module. For optimal usage of the plugin we recommend to register your website here: http://www.redpeppix.com/hosts/new. After registration you will receive a hashtag, which must be listed in the redpeppix. plugin section of your Joomla backend under „Basic options: Key“. After this you can specify the settings for your website and start earning money through product recommendations. You will find additional settings under „Advanced options“.
+
+The following settings can be chosen:
+PIX-scope on your blog: Define if you want to allow PIXSETTING on your whole blog, or if you want to limit it, e.g. to your posts and comments.
+Technology active? If you don‘t want PIX-technology to be active on your page, you can switch it off (that goes for Browser Plugin, too).
+redpeppix. allows various ways of commenting. At the moment comments can be published via redpeppix. or Facebook with commenting via redpeppix. being standard. Facebook can be chosen as a provider alternatively. The PIX comments are then published using the Facebook comment-function. This way every Facebook user can comment. IMPORTANT: At the moment, only the publsiher „redpeppix“ is functional.
+
+
+
+
+
 BESCHREIBUNG
 ============
 Mit der PIX-Technologie oder kurz PIXTEC kannst du Ausschnitte von Bildern im Internet markieren und sie mit Kommentaren, Videos, Bildern, Produkten und anderen Inhalten verlinken. Die Markierung erscheint als grüner Punkt – dem PIX – der bei Mouseover sichtbar wird.
