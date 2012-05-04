@@ -25,4 +25,3 @@ You will have access to the following settings: <br />
 * <b>Entry-Delay:</b> You can delay the publish of a comment for up to 24 hours. This way, you can take a look at the entry before it is visible to all visitors. You can decide whether you release or delete an entry. Access all entries in your pixoona profile at <a href="www.pixoona.com">www.pixoona.com</a>. 
 * <b>Restrict image tagging:</b> You can define whether image tagging is enabled for your entire blog or just a few subpages or even individual images. 
 
-*****
