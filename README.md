@@ -21,8 +21,8 @@ Step 3: Go to „Extensions“ and choose „Plugin Manager“. Then activate th
 You can change the settings of the module by on it in your Extensions Manger. For optimal usage of the plugin we recommend to register your website at <a href="www.pixoona.com">www.pixoona.com</a>. Use the user settings to register your website, participate in the revenues generate through product and music recommendations and change settings.<br />
 <br />
 You will have access to the following settings: <br />
-*pixoona rights: You decide who can tag and comment pictures. Either you restrict the rights to yourself as an admin or you allow each visitor to tag images on your blog.
-*Entry-Delay: You can delay the publish of a comment for up to 24 hours. This way, you can take a look at the entry before it is visible to all visitors. You can decide whether you release or delete an entry. Access all entries in your pixoona profile at <a href="www.pixoona.com">www.pixoona.com</a>. 
-*Restrict image tagging: You can define whether image tagging is enabled for your entire blog or just a few subpages or even individual images. 
+* pixoona rights: You decide who can tag and comment pictures. Either you restrict the rights to yourself as an admin or you allow each visitor to tag images on your blog.
+* Entry-Delay: You can delay the publish of a comment for up to 24 hours. This way, you can take a look at the entry before it is visible to all visitors. You can decide whether you release or delete an entry. Access all entries in your pixoona profile at <a href="www.pixoona.com">www.pixoona.com</a>. 
+* Restrict image tagging: You can define whether image tagging is enabled for your entire blog or just a few subpages or even individual images. 
 
 *****
