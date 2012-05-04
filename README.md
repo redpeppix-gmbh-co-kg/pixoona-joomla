@@ -1,8 +1,7 @@
 DESCRIPTION
 -----------
-PIX-technology enables you to link up comments, videos, pictures, products and much more to any image on the internet. This content becomes visible at mouseover: you see a small green dot - the PIX. Every new PIX opens up an interactive world of its own which the user can discover, explore and expand.
-PIX-technology can be integrated into your website with a JavaScript, or with a special Joomla plugin that makes integration extremely easy. You can adjust the PIX-technology according to your wishes and tweak PIX settings to meet your individual needs. Set PIX yourself and manage PIX set by your friends or other interested readers.
-
+Make your website interactive by posting PIX onto your images! With synced updates to Facebook and Twitter, your friends will always be the first to see what's new on your site. Allow your visitors to tag your images and share the things that excite them. <br /><br />
+This official pixoona plugin adds the pixoona technology to your website and makes your images interactive. Users can tag pictures, comment them and add videos, music or products to their posts.
 
 CHANGELOG
 ---------
@@ -15,39 +14,15 @@ CHANGELOG
 
 INSTALLATION
 ------------
-Step 1: Download the Joomla module („plg_pixoona.zip“) above.
-Step 2: Go to „Extensions“, „Extensions Manager“ in the Joomla backend, choose „Install“ and install the module „plg_pixoona.zip“.
-Step 3: Go to „Extensions“ and choose „Plugin Manager“. Then activate the pixoona plugin.
-
-Various settings can be made by clicking on the module. For optimal usage of the plugin we recommend to register your website here: http://www.pixoona.com/hosts/new. After this you can specify the settings for your website and start earning money through product recommendations.
-
-The following settings can be chosen:
-PIX-scope on your blog: Define if you want to allow PIXSETTING on your whole blog, or if you want to limit it, e.g. to your posts and comments.
-Technology active? If you don‘t want PIX-technology to be active on your page, you can switch it off (that goes for Browser Plugin, too).
-
+Step 1: Download the Joomla module („plg_pixoona.zip“) above. <br />
+Step 2: Go to „Extensions“, „Extensions Manager“ in the Joomla backend, choose „Install“ and install the module „plg_pixoona.zip“.<br />
+Step 3: Go to „Extensions“ and choose „Plugin Manager“. Then activate the pixoona plugin.<br />
+<br />
+You can change the settings of the module by on it in your Extensions Manger. For optimal usage of the plugin we recommend to register your website at <a href="www.pixoona.com">www.pixoona.com</a>. Use the user settings to register your website, participate in the revenues generate through product and music recommendations and change settings.<br />
+<br />
+You will have access to the following settings: <br />
+*pixoona rights: You decide who can tag and comment pictures. Either you restrict the rights to yourself as an admin or you allow each visitor to tag images on your blog.
+*Entry-Delay: You can delay the publish of a comment for up to 24 hours. This way, you can take a look at the entry before it is visible to all visitors. You can decide whether you release or delete an entry. Access all entries in your pixoona profile at <a href="www.pixoona.com">www.pixoona.com</a>. 
+*Restrict image tagging: You can define whether image tagging is enabled for your entire blog or just a few subpages or even individual images. 
 
 *****
-
-
-BESCHREIBUNG
-------------
-Mit der PIX-Technologie oder kurz PIXTEC kannst du Ausschnitte von Bildern im Internet markieren und sie mit Kommentaren, Videos, Bildern, Produkten und anderen Inhalten verlinken. Die Markierung erscheint als grüner Punkt – dem PIX – der bei Mouseover sichtbar wird.
-Die PIXTEC kanst du als JavaScript Code in deine Webseite integrieren. Für Joomla Webseiten haben wir ein eigenes Plugin, das die Integration nochmals vereinfacht. Mit der PIXTEC kannst du die Rechte für das PIXSETTING auf deiner Webseite festlegen. Du kannst selber PIX setzen. Und du kannst die PIX von Freunden oder interessierten Lesern annehmen oder ablehnen.
-
-CHANGELOG
----------
-
-* Version 1.3.0 (2012-04-03) : Hash-Key wird nicht mehr benötigt. Plugin wurde auf "pixoona" umgestellt.
-* Version 1.2.5 (2012-01-30) : Unterstützt nun SSL-Seiten. Die Option "Publisher" wurde entfernt.
-* Version 1.2.0 (2012-01-16) : Kein explizites Inkludieren von Faye. Das Script wird autom. durch das pixoona-Script geladen.
-* Version 1.1.0 (2011-12-13) : Die URL für Faye wurde angepasst
-
-INSTALLATION
-------------
-Lade die Datei "plg_pixoona.zip" runter und installiere dieses Plugin in deinem Joomla!-Backend unter dem Punkt "Erweiterungen:Installieren". Danach musst du nur das pixoona-Plugin unter "Erweiterungen:Plugins" aktivieren. Optional kannst du noch einige Einstellungen vornehmen, in dem du dort das pixoona-Plugin auswählst.
-
-Basisoptionen:
-
-- Einschränkung : Wenn nur Bilder in einem Bereich der Webseite für das PIX setzen freigeben werden sollen, ist es möglich den Bereich für pixoona zu markieren. Es könnte zum Beispiel nur der Content Bereich einer Webseite gewählt werden, oder nur der Navigationsbereich, etc. Dies wird einfach über die Angabe der CSS-ID gesteuert.
-
-- Technologie aktiv? : Wenn auf deiner Seite die pixoona-Technologie nicht zur Verfügung stehen soll (betrifft auch das Browser-Plugin), kann dies hier abgeschaltet werden:
