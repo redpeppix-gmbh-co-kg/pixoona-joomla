@@ -15,10 +15,10 @@ CHANGELOG
 INSTALLATION
 ------------
 <b>Step 1:</b> Download the Joomla module („plg_pixoona.zip“) above. <br />
-<b>Step 2:</b> Go to „Extensions“, „Extensions Manager“ in the Joomla backend, choose „Install“ and install the module „plg_pixoona.zip“.<br />
+<b>Step 2:</b> Go to „Extensions“, „Extensions Manager“ in the Joomla backend, choose „Install“ and install the plugin „plg_pixoona.zip“.<br />
 <b>Step 3:</b> Go to „Extensions“ and choose „Plugin Manager“. Then activate the pixoona plugin.<br />
 <br />
-You can change the settings of the module by on it in your Extensions Manger. For optimal usage of the plugin we recommend to register your website at <a href="www.pixoona.com">www.pixoona.com</a>. Use the user settings to register your website, participate in the revenues generate through product and music recommendations and change settings.<br />
+You can change the settings of the plugin by on it in your Extensions Manger. For optimal usage of the plugin we recommend to register your website at <a href="www.pixoona.com">www.pixoona.com</a>. Use the user settings to register your website, participate in the revenues generate through product and music recommendations and change settings.<br />
 <br />
 You will have access to the following settings: <br />
 * <b>pixoona rights:</b> You decide who can tag and comment pictures. Either you restrict the rights to yourself as an admin or you allow each visitor to tag images on your blog.
