@@ -6,6 +6,7 @@ This official pixoona plugin adds the pixoona technology to your website and mak
 CHANGELOG
 ---------
 
+* Version 1.3.5 (2012-11-01) : Several Bugfixes and I18n works now correctly.
 * Version 1.3.0 (2012-04-03) : No longer need of Hash key. Plugin was changed to "pixoona".
 * Version 1.2.5 (2012-01-30) : Supports SSL-Sites.  The setting "Publisher" was removed.
 * Version 1.2.0 (2012-01-16) : No explicit include of Faye. The script will be automatically loaded with the pixoona-Script.
@@ -19,9 +20,3 @@ INSTALLATION
 <b>Step 3:</b> Go to „Extensions“ and choose „Plugin Manager“. Then activate the pixoona plugin.<br />
 <br />
 You can change the settings of the plugin by on it in your Extensions Manger. For optimal usage of the plugin we recommend to register your website at <a href="www.pixoona.com">www.pixoona.com</a>. Use the user settings to register your website, participate in the revenues generate through product and music recommendations and change settings.<br />
-<br />
-You will have access to the following settings: <br />
-* <b>pixoona rights:</b> You decide who can tag and comment pictures. Either you restrict the rights to yourself as an admin or you allow each visitor to tag images on your blog.
-* <b>Entry-Delay:</b> You can delay the publish of a comment for up to 24 hours. This way, you can take a look at the entry before it is visible to all visitors. You can decide whether you release or delete an entry. Access all entries in your pixoona profile at <a href="www.pixoona.com">www.pixoona.com</a>. 
-* <b>Restrict image tagging:</b> You can define whether image tagging is enabled for your entire blog or just a few subpages or even individual images. 
-
